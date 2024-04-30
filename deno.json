@@ -1,0 +1,10 @@
+{
+    "name": "deno-bamboohr",
+    "type": "module",
+    "version": "0.0.0",
+    "author": "Craig Buchanan",
+    "description": "A Deno library for the BambooHr API.",
+    "main": "mod.ts",
+    "license": "MIT",
+    "repository": "https://github.com/craibuc/deno-bamboohr"
+}
