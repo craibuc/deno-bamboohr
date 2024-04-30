@@ -1,5 +1,3 @@
-// import { DriverType, DriverSearchOption } from "./types.ts";
-
 export class BambooHr {
 
     private authorization: string;
